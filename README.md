@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwkoh67
-- 👀 I’m interested in RPA
-- 🌱 I’m currently learning C, JAVA, Python and Data structure
+- 👀 I’m interested in RPA, Machine learning, Data analysis
+- 🌱 I’m currently learning C, JAVA, Python, R and Data structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Send me messages
 
